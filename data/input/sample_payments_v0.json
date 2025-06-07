@@ -1,0 +1,34 @@
+[
+  {
+      "transaction_id": "122223377984",
+      "payment_date": "2025-06-04",
+      "game": "funny-game",
+      "currency": "EUR",
+      "price": 2.1,
+      "status": "successfull"
+  },
+  {
+      "transaction_id": "12217181124334",
+      "payment_date": "2025-06-04",
+      "game": "cool-game",
+      "currency": "EUR",
+      "price": 0.54,
+      "status": "successfull"
+  },
+  {
+      "transaction_id": "1222221124334",
+      "payment_date": "2025-06-05",
+      "game": "funny-game",
+      "currency": "USD",
+      "price": 0.99,
+      "status": "successfull"
+  },
+  {
+      "transaction_id": "1222619101124334",
+      "payment_date": "2025-06-05",
+      "game": "extra-game",
+      "currency": "USD",
+      "price": 0.99,
+      "status": "error"
+  }
+]
